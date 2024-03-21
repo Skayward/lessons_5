@@ -1,10 +1,10 @@
 @import url("reset.css");
 
 @font-face {
-	font-family: 'Proxima Nova Rg';
+	font-family: 'Proxima Nova';
 	src: url('../fonts.css/ProximaNova-Regular.woff2') format('woff2'),
 		url('../fonts.css/ProximaNova-Regular.woff') format('woff');
-	font-weight: normal;
+	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
@@ -19,7 +19,7 @@
 
 .text0,
 .logo {
-	font-family: "Proxima Nova Rg", sans-serif;
+	font-family: "Proxima Nova", sans-serif;
 	font-size: 40px;
 	color: #2b2929;
 	line-height: 48px;
@@ -31,7 +31,7 @@
 .block2,
 .large,
 .ark {
-	font-family: "Proxima Nova Rg", sans-serif;
+	font-family: "Proxima Nova", sans-serif;
 	color: #2b2929;
 	font-size: 16px;
 	line-height: 30px;
@@ -39,12 +39,11 @@
 
 .block2 {
 	padding: 0px 0px 0px 50px;
-	vertical-align: -30px;
 	margin: 0px 0px 0px 50px;
 }
 
 .text2 {
-	font-family: "Proxima Nova Rg", sans-serif;
+	font-family: "Proxima Nova", sans-serif;
 	font-size: 20px;
 	line-height: 28px;
 	padding: 30px 0px;
