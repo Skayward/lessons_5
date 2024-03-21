@@ -1,3 +1,5 @@
+@import url("reset.css");
+
 @font-face {
 	font-family: 'Proxima Nova Rg';
 	src: url('../fonts.css/ProximaNova-Regular.woff2') format('woff2'),
@@ -7,11 +9,12 @@
 	font-display: swap;
 }
 
-@import url("reset.css");
-
 .block0,
 .large {
 	background-color: #7f7d7d07;
+	margin-top: 100px;
+	padding: 50px 100px 50px 100px;
+
 }
 
 .text0,
@@ -21,6 +24,7 @@
 	color: #2b2929;
 	line-height: 48px;
 	text-align: center;
+	margin-top: 100px;
 }
 
 .block1,
@@ -43,10 +47,12 @@
 	font-family: "Proxima Nova Rg", sans-serif;
 	font-size: 20px;
 	line-height: 28px;
+	padding: 30px 0px;
 }
 
 .foto1 {
 	text-align: center;
+	padding: 50px 0px;
 }
 
 .block3 {
@@ -54,6 +60,7 @@
 	text-align: center;
 
 }
+
 .item {
 	width: 22.255%;
 	display: inline-block;
@@ -69,13 +76,13 @@
 	font-size: 50px;
 	font-weight: 500px;
 	text-align: center;
-	
+
 }
 
 .items1 {
 	background-color: #827d7d0d;
 	padding: 100px 0px 0px 0px;
-	
+	font-size: 0;
 }
 
 .itm1 {
@@ -85,6 +92,7 @@
 .card1 {
 	margin-right: 24px;
 	width: 187px;
+
 }
 
 .vnutr {
@@ -109,25 +117,31 @@
 .veight {
 	width: 200px;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .veight1 {
 	max-width: 400px;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .veight2 {
 	min-width: 700px;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .veight3 {
 	width: 30%;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
+
 .veight4 {
 	height: 100px;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .veight5 {
@@ -135,6 +149,7 @@
 	height: 30px;
 	overflow: hidden;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .veight6 {
@@ -142,6 +157,7 @@
 	height: 30px;
 	overflow-y: scroll;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .veight7 {
@@ -149,12 +165,15 @@
 	height: 30px;
 	overflow: auto;
 	background-color: bisque;
+	margin-bottom: 50px;
 }
 
 .sine1 {
 	width: 100px;
 	height: 150px;
 	background-color: rgba(80, 77, 74, 0.205);
+	margin-left: 50px;
+
 }
 
 .sine2 {
