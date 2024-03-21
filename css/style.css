@@ -1,0 +1,165 @@
+@font-face {
+	font-family: 'Proxima Nova Rg';
+	src: url('../fonts.css/ProximaNova-Regular.woff2') format('woff2'),
+		url('../fonts.css/ProximaNova-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@import url("reset.css");
+
+.block0,
+.large {
+	background-color: #7f7d7d07;
+}
+
+.text0,
+.logo {
+	font-family: "Proxima Nova Rg", sans-serif;
+	font-size: 40px;
+	color: #2b2929;
+	line-height: 48px;
+	text-align: center;
+}
+
+.block1,
+.block2,
+.large,
+.ark {
+	font-family: "Proxima Nova Rg", sans-serif;
+	color: #2b2929;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+.block2 {
+	padding: 0px 0px 0px 50px;
+	vertical-align: -30px;
+	margin: 0px 0px 0px 50px;
+}
+
+.text2 {
+	font-family: "Proxima Nova Rg", sans-serif;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.foto1 {
+	text-align: center;
+}
+
+.block3 {
+	margin: 0 -20px;
+	text-align: center;
+
+}
+.item {
+	width: 22.255%;
+	display: inline-block;
+	padding: 0px 20px 0px 20px;
+	vertical-align: top;
+}
+
+.logo {
+	padding-bottom: 30px;
+}
+
+.cards {
+	font-size: 50px;
+	font-weight: 500px;
+	text-align: center;
+	
+}
+
+.items1 {
+	background-color: #827d7d0d;
+	padding: 100px 0px 0px 0px;
+	
+}
+
+.itm1 {
+	padding: 70px 300px 234px 300px;
+}
+
+.card1 {
+	margin-right: 24px;
+	width: 187px;
+}
+
+.vnutr {
+	padding: 20px 10px 30px 50px;
+	background-color: aquamarine;
+}
+
+.s1 {
+	margin: 20px 10px 30px 50px;
+	background-color: rgba(70, 133, 112, 0.547);
+	display: inline-block;
+}
+
+.chlop1 {
+	margin-bottom: 50px;
+}
+
+.chlop2 {
+	margin-top: 30px;
+}
+
+.veight {
+	width: 200px;
+	background-color: bisque;
+}
+
+.veight1 {
+	max-width: 400px;
+	background-color: bisque;
+}
+
+.veight2 {
+	min-width: 700px;
+	background-color: bisque;
+}
+
+.veight3 {
+	width: 30%;
+	background-color: bisque;
+}
+.veight4 {
+	height: 100px;
+	background-color: bisque;
+}
+
+.veight5 {
+	display: inline-block;
+	height: 30px;
+	overflow: hidden;
+	background-color: bisque;
+}
+
+.veight6 {
+	display: inline-block;
+	height: 30px;
+	overflow-y: scroll;
+	background-color: bisque;
+}
+
+.veight7 {
+	display: inline-block;
+	height: 30px;
+	overflow: auto;
+	background-color: bisque;
+}
+
+.sine1 {
+	width: 100px;
+	height: 150px;
+	background-color: rgba(80, 77, 74, 0.205);
+}
+
+.sine2 {
+	margin: -50px 150px 0px 50px;
+	height: 150px;
+	background-color: rgba(80, 77, 74, 0.205);
+	text-align: center;
+}
