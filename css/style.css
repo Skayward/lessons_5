@@ -38,8 +38,12 @@
 }
 
 .block2 {
-	padding: 0px 0px 0px 50px;
-	margin: 0px 0px 0px 50px;
+	padding: 0px 0px 26px 70px;
+}
+
+.five {
+	display: inline-block;
+	margin-bottom: 30px;
 }
 
 .text2 {
